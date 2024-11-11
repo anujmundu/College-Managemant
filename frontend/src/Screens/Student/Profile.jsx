@@ -144,7 +144,7 @@ const Profile = () => {
                     setPassword({ ...password, current: e.target.value })
                   }
                   placeholder="Current Password"
-                  className="px-3 py-1 border-2 border-blue-500 outline-none rounded mt-4"
+                  className="px-3 py-1 border-2 border-blue-500 text-black outline-none rounded mt-4"
                 />
                 <input
                   type="password"
